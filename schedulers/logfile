@@ -1,0 +1,13 @@
+>>fill request_queue
+>>start schdeuler [SSTF]
+12->97->86->72->45->50->51->40->54->70->
+distance is 246
+>>start schdeuler [SCAN]
+
+distance is 246
+>>start schdeuler [CSCAN]
+
+distance is 246
+>>start schdeuler [(null)]
+
+distance is 246
